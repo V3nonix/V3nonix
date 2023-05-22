@@ -29,9 +29,9 @@ I am a creatively driven software engineer who strives to balance form and funct
 
 #### Languages
   
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>|
   |:---:|:---:|
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>|
   
 </div>
 </td>
@@ -41,9 +41,9 @@ I am a creatively driven software engineer who strives to balance form and funct
 
 #### Front-End
   
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60"/>|
   |:---:|
-  |<img src="https://github.com/V3nonix/V3nonix/assets/124533881/b25d3a0a-c0c7-409c-9d24-145c95a2d11c" width="75" height="75"/>|
+  |<img src="https://github.com/V3nonix/V3nonix/assets/124533881/b25d3a0a-c0c7-409c-9d24-145c95a2d11c" width="60" height="60"/>|
 
 </div>
 </td>
@@ -53,9 +53,9 @@ I am a creatively driven software engineer who strives to balance form and funct
 
 #### Back-End
   
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60"/>|
   |:---:|:---:|
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60" height="60"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>|
 
 </div>
 </td>
@@ -65,9 +65,9 @@ I am a creatively driven software engineer who strives to balance form and funct
 
 #### Databases
   
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>|
   |:---:|
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>|
 
 </div>
 </td>
@@ -75,11 +75,11 @@ I am a creatively driven software engineer who strives to balance form and funct
 <td>
 <div align="center">
 
-#### Miscellaneous
+#### Misc
   
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" width="60" height="60"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="60" height="60"/>|
   |:---:|:---:|
-  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="75" height="75"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75" height="75"/>|
+  |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="60" height="60"/>|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/>|
 
 </div>
 </td>
